@@ -2,4 +2,5 @@ Panic at the Playground is an experimental project in which I tasked generative 
 
 Here's a video that covers its creation:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FaJ9MkDMR5M?si=RKcHBfsT__viQZnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Youtube video documenting this projects creation](https://img.youtube.com/vi/FaJ9MkDMR5M/0.jpg)](https://www.youtube.com/watch?v=FaJ9MkDMR5M)
+
